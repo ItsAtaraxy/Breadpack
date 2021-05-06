@@ -1,0 +1,16 @@
+[
+{
+  "modid": "breadpack",
+  "name": "Breadpack",
+  "description": "Custom things for the Bread Boi Pixelmon server",
+  "version": "2.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ataraxy"],
+  "credits": "Ataraxy wrote all code and made all assets. Thanks to Cy4 for the tutorial",
+  "logoFile": "textures:logo/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

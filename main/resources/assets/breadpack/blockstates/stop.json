@@ -1,0 +1,14 @@
+{
+    "variants": 
+	{
+        "burning=false,facing=north": { "model": "breadpack:stop" },
+		"burning=false,facing=east": { "model": "breadpack:stop", "y": 90 },
+		"burning=false,facing=south": { "model": "breadpack:stop", "y": 180 },
+		"burning=false,facing=west": { "model": "breadpack:stop", "y": 270 },
+		"burning=true,facing=north": { "model": "breadpack:stop" },
+		"burning=true,facing=east": { "model": "breadpack:stop", "y": 90 },
+		"burning=true,facing=south": { "model": "breadpack:stop", "y": 180 },
+		"burning=true,facing=west": { "model": "breadpack:stop", "y": 270 }
+
+    }
+}

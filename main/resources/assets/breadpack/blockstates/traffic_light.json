@@ -1,0 +1,14 @@
+{
+    "variants": 
+	{
+        "burning=false,facing=north": { "model": "breadpack:traffic_light" },
+		"burning=false,facing=east": { "model": "breadpack:traffic_light", "y": 90 },
+		"burning=false,facing=south": { "model": "breadpack:traffic_light", "y": 180 },
+		"burning=false,facing=west": { "model": "breadpack:traffic_light", "y": 270 },
+		"burning=true,facing=north": { "model": "breadpack:traffic_light" },
+		"burning=true,facing=east": { "model": "breadpack:traffic_light", "y": 90 },
+		"burning=true,facing=south": { "model": "breadpack:traffic_light", "y": 180 },
+		"burning=true,facing=west": { "model": "breadpack:traffic_light", "y": 270 }
+
+    }
+}

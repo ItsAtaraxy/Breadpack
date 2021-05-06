@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "breadpack:blocks/stop",
+		"up": "breadpack:blocks/stop",
+		"down": "breadpack:blocks/stop",
+		"north": "breadpack:blocks/stop",
+		"east": "breadpack:blocks/stop",
+		"south": "breadpack:blocks/stop",
+		"west": "breadpack:blocks/stop"
+    }
+}

@@ -1,0 +1,31 @@
+//Items
+item.chip.name=Serenity Chip
+item.token.name=Bread Token
+item.toast.name=Toast
+item.cheeseburger.name=Cheeseburger
+item.coke.name=Coca Cola
+item.dr_pepper.name=Dr. Pepper
+item.mtn_dew.name=Mtn Dew
+item.pepsi.name=Pepsi
+item.coffee_mug.name=Coffee Mug
+item.coffee_cup.name=Coffee Cup
+item.chocolate_ice_cream.name=Chocolate Ice Cream
+item.vanilla_ice_cream.name=Vanilla Ice Cream
+item.strawberry_ice_cream.name=Strawberry Ice Cream
+item.mint_ice_cream.name=Mint Chocolate Chip Ice Cream
+item.raisinets.name=Raisinets
+item.chicken_noodle_soup.name=Chicken Noodle Soup
+item.empty_gas_can.name=Empty Gas Can
+item.gas_can.name=Gas Can
+item.hotdog.name=Hotdog
+item.pizza.name=Pizza
+item.popcorn.name=Popcorn
+item.splint.name=Splint
+
+//Blocks
+tile.ruby_block.name=Ruby Block
+tile.stop.name=Stop Sign
+tile.traffic_light.name=Traffic Light
+
+//Other
+itemGroup.BreadpackTab=Breadpack
