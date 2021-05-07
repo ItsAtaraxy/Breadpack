@@ -38,4 +38,10 @@ public class ItemInit
 	public static final Item PIZZA = new FoodBase("pizza", 7, 8f, true);
 	public static final Item POPCORN = new FoodBase("popcorn", 3, 0.5f, true);
 	public static final Item SPLINT = new ItemBase("splint");
+	public static final Item GARLICBREAD = new FoodBase("garlic_bread", 5, 6.0f, false);
+	public static final Item BISCUIT = new FoodBase("biscuit", 5, 6.0f, false);
+	public static final Item BAGEL = new FoodBase("bagel", 5, 6.0f, false);
+	public static final Item PRETZEL = new FoodBase("pretzel", 5, 6.0f, false);
+	public static final Item CROSSAINT = new FoodBase("crossaint", 5, 6.0f, false);
+	public static final Item BREADLOAF = new FoodBase("bread_loaf", 5, 6.0f, false);
 }

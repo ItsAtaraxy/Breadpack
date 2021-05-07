@@ -21,6 +21,12 @@ item.hotdog.name=Hotdog
 item.pizza.name=Pizza
 item.popcorn.name=Popcorn
 item.splint.name=Splint
+item.garlic_bread.name=Garlic Bread
+item.biscuit.name=Biscuit
+item.bagel.name=Bagel
+item.pretzel.name=Pretzel
+item.crossaint.name=Crossaint
+item.bread_loaf.name=Loaf of Bread
 
 //Blocks
 tile.ruby_block.name=Ruby Block
